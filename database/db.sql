@@ -2,7 +2,7 @@ CREATE DATABASE crudgot;
 
 use crudgot;
 
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'spyXfam_11';
+ALTER USER 'root'@'containers-us-west-93.railway.app' IDENTIFIED WITH mysql_native_password BY 'B6iGRiGx5oBT6LDGj3wM';
 flush privileges;
 
 CREATE TABLE customer (
