@@ -1,6 +1,3 @@
-ALTER USER 'root'@'containers-us-west-93.railway.app' IDENTIFIED WITH mysql_native_password BY 'B6iGRiGx5oBT6LDGj3wM';
-flush privileges;
-
 CREATE DATABASE crudgot;
 
 use crudgot;
